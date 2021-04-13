@@ -1,0 +1,15 @@
+/Users/hr/code/rated_-R/bin/Debug/net5.0/RatedR.deps.json
+/Users/hr/code/rated_-R/bin/Debug/net5.0/RatedR.runtimeconfig.json
+/Users/hr/code/rated_-R/bin/Debug/net5.0/RatedR.runtimeconfig.dev.json
+/Users/hr/code/rated_-R/bin/Debug/net5.0/RatedR.dll
+/Users/hr/code/rated_-R/bin/Debug/net5.0/ref/RatedR.dll
+/Users/hr/code/rated_-R/bin/Debug/net5.0/RatedR.pdb
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.csprojAssemblyReference.cache
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.AssemblyInfoInputs.cache
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.AssemblyInfo.cs
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.csproj.CoreCompileInputs.cache
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.dll
+/Users/hr/code/rated_-R/obj/Debug/net5.0/ref/RatedR.dll
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.pdb
+/Users/hr/code/rated_-R/obj/Debug/net5.0/RatedR.genruntimeconfig.cache
